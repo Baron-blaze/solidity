@@ -21,8 +21,8 @@ parameters:
     default: "solbuildpackpusher/solidity-buildpack-deps@sha256:534c4eea1ba370a85cf3c106b4a30b43152ba4f695fab5e18577009a5e272146"
   ubuntu-clang-ossfuzz-docker-image:
     type: string
-    # solbuildpackpusher/solidity-buildpack-deps:ubuntu.clang.ossfuzz-6
-    default: "solbuildpackpusher/solidity-buildpack-deps@sha256:8883fa2845bbc1e0922af60439313666e4ba325f67a117e17d78cca3ea6589b3"
+    # solbuildpackpusher/solidity-buildpack-deps:ubuntu.clang.ossfuzz-9
+    default: "solbuildpackpusher/solidity-buildpack-deps@sha256:786fb28bad41835755ac9758bb1f5a15a257ed22c995dd595b1c516ffd4581ff"
   emscripten-docker-image:
     type: string
     # NOTE: Please remember to update the `scripts/build_emscripten.sh` whenever the hash of this image changes.
