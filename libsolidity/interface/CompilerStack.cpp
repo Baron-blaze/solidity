@@ -86,7 +86,6 @@
 #include <libsolutil/FunctionSelector.h>
 
 #include <boost/algorithm/string/replace.hpp>
-#include <boost/regex.hpp>
 
 #include <range/v3/algorithm/all_of.hpp>
 #include <range/v3/view/concat.hpp>
@@ -1261,12 +1260,12 @@ Json CompilerStack::ethdebugInstructions(Contract const& _contract, bool _runtim
 		Json range = Json::object();
 		range["offset"] = location.start;
 		range["length"] = location.end;
-		if (location.sourceName && m_sources.count(*location.sourceName) && location.start > -1 && location.end > -1)
-		{
-			std::string value = std::string{m_sources.at(*location.sourceName).charStream->text(location)};
-			boost::regex whitespace_re("\\s+");
-			range["value"] = boost::regex_replace(value, whitespace_re, " ");
-		}
+		// if (location.sourceName && m_sources.count(*location.sourceName) && location.start > -1 && location.end > -1)
+		// {
+			// std::string value = std::string{m_sources.at(*location.sourceName).charStream->text(location)};
+			// boost::regex whitespace_re("\\s+");
+			// range["value"] = boost::regex_replace(value, whitespace_re, " ");
+		// }
 		Json code = Json::object();
 		code["source"] = source;
 		code["range"] = range;

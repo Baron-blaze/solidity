@@ -23,8 +23,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -42,8 +41,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -58,8 +56,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -74,8 +71,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -93,8 +89,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -109,8 +104,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -128,8 +122,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -147,8 +140,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -163,8 +155,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -179,8 +170,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -192,14 +182,13 @@
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -217,8 +206,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -233,8 +221,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -249,8 +236,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -262,14 +248,13 @@
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -284,8 +269,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -300,8 +284,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -316,8 +299,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -335,8 +317,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -351,8 +332,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -367,8 +347,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -386,8 +365,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -402,8 +380,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -418,8 +395,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -434,8 +410,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -450,8 +425,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -466,8 +440,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -482,8 +455,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -498,8 +470,7 @@
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 0
@@ -706,8 +677,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -725,8 +695,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -741,8 +710,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -757,8 +725,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -776,8 +743,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -792,8 +758,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -811,8 +776,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -830,8 +794,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -846,8 +809,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -862,8 +824,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -875,14 +836,13 @@ object \"A1_14\" {
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -900,8 +860,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -916,8 +875,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -932,8 +890,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -945,14 +902,13 @@ object \"A1_14\" {
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -967,8 +923,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -983,8 +938,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -999,8 +953,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1018,8 +971,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1034,8 +986,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1050,8 +1001,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1069,8 +1019,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1085,8 +1034,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1101,8 +1049,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1117,8 +1064,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1133,8 +1079,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1149,8 +1094,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1165,8 +1109,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1181,8 +1124,7 @@ object \"A1_14\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract A2 { function a(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 0
@@ -1391,8 +1333,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1410,8 +1351,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1426,8 +1366,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1442,8 +1381,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1461,8 +1399,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1477,8 +1414,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1496,8 +1432,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1515,8 +1450,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1531,8 +1465,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1547,8 +1480,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1560,14 +1492,13 @@ object \"A2_27\" {
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1585,8 +1516,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1601,8 +1531,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1617,8 +1546,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1630,14 +1558,13 @@ object \"A2_27\" {
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1652,8 +1579,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1668,8 +1594,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1684,8 +1609,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1703,8 +1627,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1719,8 +1642,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1735,8 +1657,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1754,8 +1675,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1770,8 +1690,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1786,8 +1705,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1802,8 +1720,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1818,8 +1735,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1834,8 +1750,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1850,8 +1765,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -1866,8 +1780,7 @@ object \"A2_27\" {
                                         "code": {
                                             "range": {
                                                 "length": 123,
-                                                "offset": 58,
-                                                "value": "contract A1 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 58
                                             },
                                             "source": {
                                                 "id": 1
@@ -2074,8 +1987,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2093,8 +2005,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2109,8 +2020,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2125,8 +2035,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2144,8 +2053,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2160,8 +2068,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2179,8 +2086,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2198,8 +2104,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2214,8 +2119,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2230,8 +2134,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2243,14 +2146,13 @@ object \"A1_42\" {
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2268,8 +2170,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2284,8 +2185,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2300,8 +2200,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2313,14 +2212,13 @@ object \"A1_42\" {
                                 },
                                 {
                                     "arguments": [
-                                        "0x0155"
+                                        "0x0159"
                                     ],
                                     "context": {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2335,8 +2233,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2351,8 +2248,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2367,8 +2263,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2386,8 +2281,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2402,8 +2296,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2418,8 +2311,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2437,8 +2329,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2453,8 +2344,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2469,8 +2359,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2485,8 +2374,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2501,8 +2389,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2517,8 +2404,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2533,8 +2419,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
@@ -2549,8 +2434,7 @@ object \"A1_42\" {
                                         "code": {
                                             "range": {
                                                 "length": 189,
-                                                "offset": 124,
-                                                "value": "contract B2 { function b(uint x) public pure { assert(x > 0); } }"
+                                                "offset": 124
                                             },
                                             "source": {
                                                 "id": 1
