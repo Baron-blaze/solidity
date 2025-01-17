@@ -1287,12 +1287,6 @@ Json StandardCompiler::importEVMAssembly(StandardCompiler::InputsAndSettings _in
 			deployedJSON["linkReferences"] = formatLinkReferences(stack.runtimeObject(sourceName).linkReferences);
 		if (evmDeployedArtifactRequested("immutableReferences"))
 			deployedJSON["immutableReferences"] = formatImmutableReferences(stack.runtimeObject(sourceName).immutableReferences);
-		if (evmDeployedArtifactRequested("subAssemblyOffsets"))
-		{
-			Json ret = Json::object();
-			ret["subs"] = formatSubAssemblyOffsets(stack.runtimeObject(sourceName).subAssemblyData);
-			deployedJSON["subAssemblyOffsets"] = std::move(ret);
-		}
 		evmData["deployedBytecode"] = deployedJSON;
 	}
 

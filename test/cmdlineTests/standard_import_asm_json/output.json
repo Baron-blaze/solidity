@@ -22,10 +22,7 @@
                         "linkReferences": {},
                         "object": "",
                         "opcodes": "",
-                        "sourceMap": "",
-                        "subAssemblyOffsets": {
-                            "subs": []
-                        }
+                        "sourceMap": ""
                     },
                     "legacyAssembly": {
                         ".code": [
